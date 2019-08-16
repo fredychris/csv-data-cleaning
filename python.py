@@ -27,3 +27,4 @@ if __name__ == "__main__":
 
     myfunction(all)
     
+print("Allow access")
